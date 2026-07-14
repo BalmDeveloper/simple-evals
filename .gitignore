@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local-only: contains third-party contact PII, not for publishing
+billionaires_apollo_enriched.csv
